@@ -22,3 +22,5 @@ Customer Support Tickets Dataset
 ## Results
 Ticket Type Accuracy: 19.6%
 Priority Accuracy: 25.8%
+Author
+MIDDE SRUTHI
